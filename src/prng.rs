@@ -1,3 +1,17 @@
+/*
+ * prng.rs
+ *
+ * This file is part of the project - utxo-blockchain
+ * authored by Udipta Pathak (udiptapathak00@gmail.com)
+ *
+ * Source code may be used and modified by anyone to produce their work in any
+ * form under the condition: give credit to this project where it is used.
+ *
+ * This project comes without warranty.
+ *
+ * Further refer to the license attached to the project root.
+ */
+
 use crate::arithmetic256::*;
 use core::ffi::*;
 use std::mem;
